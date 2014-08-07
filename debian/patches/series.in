@@ -60,3 +60,11 @@ issue9729.diff
 link-system-expat.diff
 plat-gnukfreebsd.diff
 issue7356.diff
+CVE-2012-1150.diff
+CVE-2012-0845.diff
+CVE-2011-4944.diff
+CVE-2011-1015.diff
+CVE-2011-4940.diff
+CVE-2011-1521.diff
+CVE-2013-4238.diff
+CVE-2014-1912.diff
