@@ -1,3 +1,10 @@
+python2.6 (2.6.6-8+deb6u3) squeeze-lts; urgency=low
+
+  * platform-linux3.diff: consider linux 3.x to be linux2
+    (Closes: #757776).
+
+ -- Raphael Geissert <geissert@debian.org>  Mon, 11 Aug 2014 15:12:01 +0200
+
 python2.6 (2.6.6-8+deb6u2) squeeze-lts; urgency=low
 
   * Restore the conditional definition of "urandom" from os.py
